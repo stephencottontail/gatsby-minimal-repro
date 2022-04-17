@@ -1,8 +1,8 @@
 {
   "name": "gatsby-minimal-repro",
-  "packageManager": "yarn@3.2.0",
   "dependencies": {
     "gatsby": "^4.12.1",
+    "gatsby-plugin-catch-links": "^4.12.1",
     "gatsby-plugin-image": "^2.12.1",
     "gatsby-plugin-sharp": "^4.12.1",
     "gatsby-source-wordpress": "^6.12.2",
